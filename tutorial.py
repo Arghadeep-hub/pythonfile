@@ -20,4 +20,4 @@ printArray(arr, n)
 moveToEnd(arr, n)
 
 print("\nModified Array:", end=" ")
-printArray(arr, n)
+printArray(arr, n) # 5 9 4 1 0 0
